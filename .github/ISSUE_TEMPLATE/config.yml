@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Download SENOVA POS
+    url: https://www.senovadigital.xyz/
+    about: Get the latest packaged release before reporting an issue.
+  - name: SENOVA POS documentation
+    url: https://www.senovadigital.xyz/
+    about: Setup, installation, printers, backups, and operating guidance.
+  - name: Architecture & general discussions
+    url: https://github.com/NaveenChavan/senova-pos/discussions
+    about: Propose architecture changes, ask questions, or discuss early ideas.
+  - name: Report a security vulnerability
+    url: https://github.com/NaveenChavan/senova-pos/security/advisories/new
+    about: Report potential vulnerabilities privately per SECURITY.md.
